@@ -5,6 +5,8 @@
  */
 package proyectointe;
 
+
+
 /**
  *
  * @author nico
@@ -15,7 +17,11 @@ public class ProyectoInte {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        NewJFrame b = new NewJFrame();
+        // TODO code application logic 
+ 
+                
+        
     }
     
 }
